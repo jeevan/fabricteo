@@ -2,6 +2,11 @@
 *.slo
 *.lo
 *.o
+*.d
+*.d.bak
+*.elf
+*.gen.*
+*.html
 
 # Compiled Dynamic libraries
 *.so
